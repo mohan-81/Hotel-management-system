@@ -1,0 +1,137 @@
+Python 3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:\Users\HP\Documents\PROJECTS.moh\HOTEL-MANAGEMENT-SYSTEM(.py)\Hotelms.py (code)
+
+
+*****WELCOME TO BHARAT HOTEL*****
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:1
+
+Enter your name:Thambabattula mohan
+
+Enter your address:Andhrapradesh,India
+
+Enter your check in date:02-09-2023
+
+Enter your checkout date:08-09-2023
+Your room no.: 101 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:2
+We have the following rooms for you:-
+1.  type A---->rs 6000 PN\-
+2.  type B---->rs 5000 PN\-
+3.  type C---->rs 4000 PN\-
+4.  type D---->rs 3000 PN\-
+Enter Your Choice Please->2
+For How Many Nights Did You Stay:5
+you have opted room type B
+your room rent is = 25000 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:3
+*****RESTAURANT MENU*****
+1.water----->Rs20 2.tea----->Rs10 3.breakfast combo--->Rs90 4.lunch---->Rs110 5.dinner--->Rs150 6.Exit
+Enter your choice:1
+Enter the quantity:2
+Enter your choice:2
+Enter the quantity:1
+Enter your choice:4
+Enter the quantity:1
+Enter your choice:6
+Total food Cost=Rs 160 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:4
+******LAUNDRY MENU*******
+1.Shorts----->Rs3 2.Trousers----->Rs4 3.Shirt--->Rs5 4.Jeans---->Rs6 5.Girlsuit--->Rs8 6.Exit
+Enter your choice:1
+Enter the quantity:4
+Enter your choice:2
+Enter the quantity:4
+Enter your choice:6
+Total Laundary Cost=Rs 28 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:5
+******GAME MENU*******
+1.Table tennis----->Rs60 2.Bowling----->Rs80 3.Snooker--->Rs70 4.Video games---->Rs90 5.Pool--->Rs50==6 6.Exit
+Enter your choice:2
+No. of hours:1
+Enter your choice:3
+No. of hours:2
+Enter your choice:5
+No. of hours:2
+Enter your choice:6
+Total Game Bill=Rs 320 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:6
+******HOTEL BILL******
+Customer details:
+Customer name: Thambabattula mohan
+Customer address: Andhrapradesh,India
+Check in date: 02-09-2023
+Check out date 08-09-2023
+Room no. 101
+Your Room rent is: 25000
+Your Food bill is: 160
+Your laundary bill is: 28
+Your Game bill is: 320
+Your sub total bill is: 25508
+Additional Service Charges is 1800
+Your grandtotal bill is: 27308 
+
+1.Enter Customer Data
+2.Calculate rommrent
+3.Calculate restaurant bill
+4.Calculate laundry bill
+5.Calculate gamebill
+6.Show total cost
+7.EXIT
+
+Enter your choice:7
